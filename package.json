@@ -20,7 +20,7 @@
     "immutability-helper": "^3.1.1",
     "jquery": "^3.5.1",
     "jquery-ui-sortable": "^1.0.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.19",
     "moment": "^2.27.0",
     "node-sass": "^4.14.1",
